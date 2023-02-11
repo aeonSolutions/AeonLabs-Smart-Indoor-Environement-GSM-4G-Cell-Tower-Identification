@@ -36,7 +36,7 @@ Basically it means you can use this info to create a GSM locator. So where can y
 - ~~[http://www.opencellid.org/cell/map](http://www.opencellid.org/cell/map)~~
 - [www.celldb.org](http://www.celldb.org)
 
-This smart device is able to do GSM/4G radio frequency (RF) measurements in a room and send data measurements to a local home server, alternatively to a public cloud server (for instance, to the authorities). Another important characteristic of this smart device is in the ability to deliver data to a server with a Unique Data Fingerprint Identification (UDF-ID), which makes collected data more trustworthy of its origins.
+This smart device is able to do GSM/4G radio frequency (RF) measurements in a room and send data measurements to a local home server, alternatively to a public cloud server, for instance, to the authorities on a data repository ( see http://wwww.dataverse.org). Another important characteristic of this smart device is in the ability to deliver data to a server with a Unique Data Fingerprint Identification (UDF-ID), which makes collected data more trustworthy of its origins.
 <br>
 
 ### Status
