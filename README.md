@@ -20,7 +20,19 @@ Nowadays is very convenient to have a wireless 4G internet connection everywhere
 
 **The Idea**
 
-This Smart Indoor Env. GSM Cell Tower Monitor is built to do active monitoring of GSM Cell Towers nearby to look for any kind of hidden GSM/4G device repeater. Known to be used for stealing one's GSM communications data using some kind of Man-in-the-middle attack
+This Smart Indoor Env. GSM Cell Tower Monitor is built to do active monitoring of GSM Cell Towers nearby to look for any kind of hidden GSM/4G device repeater. Known to be used for stealing one's GSM communications data using some kind of Man-in-the-middle attack. This smart device is able to retrive each GSM Cell tower Radio Signal Strengh, the corresponding GPS coordinates (latitude, longitude) and do a Cell Tower Location match using a service called “OpenCellID”. [OpenCellID.org](http://OpenCellID.org) is an open source database of CellID, serving two purposes:
+
+– Everybody can create an application gathering information about cell locations, and send these information to the OpenCellID server, improving the coverage
+– The database can be used by other applications to get the location of a cell, according to his cell id.
+
+<p align="center">
+<img src="https://github.com/aeonSolutions/AeonLabs-Smart-Indoor-Environement-GSM-4G-Cell-Tower-Identification/blob/main/designs/GSM%20locator%20network.jpg" height="350">
+</p>
+
+Basically it means you can use this info to create a GSM locator. So where can you find the location of the antennas. There are two sites worth mentioning although the second one seems to be going under.
+- ~~[http://www.opencellid.org/cell/map](http://www.opencellid.org/cell/map)~~
+- [www.celldb.org](http://www.celldb.org)
+
 
 <br>
 
