@@ -26,7 +26,9 @@ This Smart Indoor Env. GSM Cell Tower Monitor is built to do active monitoring o
 - The database can be used by other applications to get the location of a cell, according to his cell id.
 
 <p align="center">
-<img src="https://github.com/aeonSolutions/AeonLabs-Smart-Indoor-Environement-GSM-4G-Cell-Tower-Identification/blob/main/designs/GSM%20locator%20network.jpg" height="350">
+<img src="https://github.com/aeonSolutions/AeonLabs-Smart-Indoor-Environement-GSM-4G-Cell-Tower-Identification/blob/main/designs/GSM%20locator%20network.jpg" height="350"> <br>
+ source: https://arduino-projects4u.com/gsm-locator/
+ 
 </p>
 
 Basically it means you can use this info to create a GSM locator. So where can you find the location of the antennas. There are two sites worth mentioning although the second one seems to be going under.
