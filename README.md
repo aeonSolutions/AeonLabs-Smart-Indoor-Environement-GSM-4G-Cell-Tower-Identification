@@ -1,5 +1,4 @@
-[![Telegram](https://img.shields.io/badge/join-telegram-blue.svg?style=for-the-badge)](https://t.me/+W4rVVa0_VLEzYmI0)
- [![WhatsApp](https://img.shields.io/badge/join-whatsapp-green.svg?style=for-the-badge)](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg) 
+[![](https://dcbadge.vercel.app/api/server/hw3j3RwfJf) ](https://discord.gg/hw3j3RwfJf)
  [![Donate](https://img.shields.io/badge/donate-$-brown.svg?style=for-the-badge)](http://paypal.me/mtpsilva)
  [![Say Thanks](https://img.shields.io/badge/Say%20Thanks-!-yellow.svg?style=for-the-badge)](https://saythanks.io/to/mtpsilva)
 ![](https://img.shields.io/github/last-commit/aeonSolutions/AeonLabs-Smart-Indoor-Environement-GSM-4G-Cell-Tower-Identification?style=for-the-badge)
@@ -16,11 +15,13 @@
    <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/general-guide-mental-health-students.jpg" height="300">
 </p>
 
-[PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Home Automation Safety & Health](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home%20Automation%20Safety%20%26%20Health)  >>   Smart Indoor Environement GSM 4G Cell Tower Identification
+[PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>   [Home-Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation)  >>  [Safety & Health](https://github.com/aeonSolutions/AeonLabs-Safety-Health)   >>   Smart Indoor Environement GSM 4G Cell Tower Identification
 
 <br>
 
-# Smart Indoor Environement GSM 4G Cell Tower Identification
+⚠️ **Start by reading the documentation first**. [Click here to open it](https://github.com/aeonSolutions/AeonLabs-Safety-Health/wiki) 
+
+# Smart Indoor Environment GSM 4G Cell Tower Identification
 
 **The Problem**
 Nowadays is very convenient to have a wireless 4G internet connection everywhere, including at home, or at the office. Also, a widely known technique for stealing one's GSM communications data includes some kind of hidden GSM/4G device repeater able to perform Man-in-the-middle attacks. This attack technique allows one to collect and intercept data communications between a GSM/4G device, for instance, a smartphone or a tablet by impersonating a GSM Cell tower. 
@@ -102,50 +103,22 @@ This public revision of the PCB electronics is expected to have a few known smal
 | [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_sell.png" alt="" height="60">](https://www.tindie.com/stores/aeonlabs/) | To all those not into electronics and still liked and want to own any of the listed PCB for smart devices can buy the PRO version on Tindie ready to install and use. |
 |-------------|------|
 
+### Useful links 
+Below is a list of links with useful information about these kinds of abusive and many times criminal and terrorist usages.
+[continue reading ...](https://github.com/aeonSolutions/AeonLabs-Safety-Health/wiki/Useful-Links)
+
 <br />
 <br />
 
-**Be supportive of my dedication and work towards open hardware and buy me a cup of coffee. Links below. Above and on the side**
+**Get a Notification on every PCB update**
 
-<br />
- 
-| [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/likeShareComment.jpg)   ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/twitter_small.png)](https://twitter.com/AeonlabsS)  | *Don't forget to **LIKE** , **SHARE** and **subscribe** the free chat groups* and if you downloaded one of AeonLabs's PCBs consider sponsor  any open hardware project with a donation or a cup of coffee. Links on the top, right side pane and below. |
+| [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/mailing-list_orig.png" alt="" width="80">](https://www.tindie.com/stores/aeonlabs/) | You can fill in your [email here (Google form)](https://docs.google.com/forms/d/e/1FAIpQLScErMgQYRdA-umvCjvTPPrCO7Lg1QYowTxb7vfa8cTfrcPEAA/viewform?usp=pp_url) and I'll send a reminder when a new PCB prototype is made available here or a new revision for an existing PCB. Stay tuned! |
 |-------------|------|
 
+<br>
 
-<br />
-<br />
-
-## Q&A WhatsApp/Telegram Groups
-| ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/whatsAppTelegram.png) | Subscribe to the WhatsApp or Telegram channel to get latest information about any of this KiCad projects and get help. Or simply like this kind of projects and want to stay updated with the latest research ideas and prototypes during the day and week. [![Telegram](https://img.shields.io/badge/join-telegram-blue.svg?style=for-the-badge)](https://t.me/+W4rVVa0_VLEzYmI0) [![WhatsApp](https://img.shields.io/badge/join-whatsapp-green.svg?style=for-the-badge)](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg) |
-|-------------|------|
-
-
-<br />
-<br />
-
-## Usefull Utilities 
-| [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/excel_utils.png)](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/useful_utilities) | One can find here usefull utilities to use when designing and prototyping pcb electronics. For instance a simple excel spreadsheet with resistance divider finder compatible with all sold on [aliexpress](https://www.aliexpress.com/item/1005002792418456.html?spm=a2g0o.cart.0.0.22e538dayDM1YR&mp=1). Click on the Excel logo to the left to get them! |
-|-------------|------|
-
-
-<br />
-<br />
-
-
-## Youtube Channel
-| ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/youtube.png) | Subscribe to my Youtube channel for PCB assembly instruction or any other related to Artificial Intelligence, Smart devices and robotics. Link to the channel [here](https://www.youtube.com/channel/UCAewCBpMRPGCyFc1ET5CHJw). My most recent video is .... |
-|-------------|------|
-
-
-<br />
-<br />
-
-________________________________________________________________________________________________________________
-
-## [Go back to main catalogue page](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)
-
-________________________________________________________________________________________________________________
+**Hire AeonLabs** <br>
+If you like my work here and are looking to design and deploy your own smart device find [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/How-to-Hire-AeonLabs) how to hire me. 
 
 <br>
 
@@ -162,32 +135,20 @@ You can also follow my GitHub Profile to stay updated about my latest projects: 
 <br>
 
 ### Be supportive of my dedication and work towards technology education and buy me a cup of coffee
-The PCB Desgin Files i provide here for anyone to use are free. If you like this Smart Device or use it, please consider buying me a cup of coffee, a slice of pizza or a book to help me study, eat and think new PCB design files.
+The PCB Design Files I provide here for anyone to use are free. If you like this Smart Device or use it, please consider buying me a cup of coffee, a slice of pizza, or a book to help me study, eat, and think new PCB design files.
 
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" />](https://www.buymeacoffee.com/migueltomas)
 
 <br />
 
 ### Make a donation on Paypal
-Make a donation on paypal and get a TAX refund*.
+Make a donation on PayPal and get a TAX refund*.
 
-[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/paypal_small.png)](http://paypal.me/mtpsilva)
+[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/paypal_small.png)](http://paypal.me/mtpsilva)
 
-<br>
 
-### Support all these open hardware projects and become a patreon  
-Liked any of my PCB KiCad Designs? Help and Support my open work to all by becomming a LDAD Patreon.
-In return I will give a free PCB design in KiCad to all patreon supporters. To learn more go to patreon.com. Link below.
-
-[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/patreon_small.png)](https://www.patreon.com/ldad)
-
-<br />
-<br />
-
-______________________________________________________________________________________________________________________________
 ### License
-2023 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 
-https://creativecommons.org/licenses/by-nc-sa/4.0/
+Before proceeding to download any of AeonLabs open source code for software solutions and/or open hardware electronics for smart devices and data acquisition make sure you are choosing the right license for your project. See [AeonLabs Solutions for Open Hardware & Open Source Code](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/AeonLabs-Solutions-for-Open-Hardware-&-Source-Development) for more information. For commercial business solutions contact AeonLabs for more information ℹ️ using the contacts above. Thank you 🙏.
 
 
